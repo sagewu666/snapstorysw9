@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SnapStory",
+  "description": "An AI-powered English learning adventure for kids. Snap photos, learn words, and create magical stories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
